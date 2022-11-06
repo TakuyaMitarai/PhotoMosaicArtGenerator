@@ -1,7 +1,12 @@
 # PhotoMosaicArtGenerator
 MaterialProcessing：モザイクアートを構成する画像の代表色を抜き出し，csvファイルにそのRGB値を書き出すコード
+
 OriginalProcessing：モザイクアートを表現する元の画像の各ブロックの代表色を抜き出し，csvファイルにそのRGB値を書き出すコード
+
 SE：構成画像の割り当てを探索し，その割り当て情報をcsvファイルに書き出すコード
+
 Output：割り当て情報をもとにモザイクアートを生成するコード
+
 ColorTransfer：生成されたモザイクアートにOriginalProcessingで書き出した代表色を一定の割合で合成し，より元の画像の色合いに近づけるコード
+
 ColorTransfer2：生成されたモザイクアートに元画像そのものの画素値を一定の割合で合成し，色合いや輪郭を元の画像に近づけるコード
