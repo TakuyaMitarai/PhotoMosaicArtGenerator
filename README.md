@@ -1,4 +1,6 @@
 # PhotoMosaicArtGenerator
+![original](https://github.com/TakuyaMitarai/PhotoMosaicArtGenerator/assets/106578561/490d6561-262f-4ecf-acdc-31817d3c850b)
+
 MaterialProcessing：モザイクアートを構成する画像の代表色を抜き出し，csvファイルにそのRGB値を書き出すコード
 
 OriginalProcessing：モザイクアートを表現する元の画像の各ブロックの代表色を抜き出し，csvファイルにそのRGB値を書き出すコード
